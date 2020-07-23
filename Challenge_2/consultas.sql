@@ -23,6 +23,11 @@ INNER JOIN trabalha_em AS t_em
 ON pj.pnumero = t_em.pno 
 WHERE emp.dno = 5 AND pj.pjnome = 'ProjectX' AND t_em.horas > 10
 
+SELECT COUNT(*)
+FROM empregado e, trabalha_em te, projeto p
+WHERE e.dno = 5 AND p.pjnome =  'ProductX' AND te.horas > 10 AND
+te.essn = e.ssn AND te.pno = p.pnumero
+
 
 10 -
 
