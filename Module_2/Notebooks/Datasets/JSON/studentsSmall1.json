@@ -1,0 +1,18 @@
+{
+    "_id":6,
+    "name":"Jenette Flanders",
+    "scores":[
+        {
+            "score":37.32285459166097,
+            "type":"exam"
+        },
+        {
+            "score":28.32634976913737,
+            "type":"quiz"
+        },
+        {
+            "score":81.57115318686338,
+            "type":"homework"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+Exemplo: Coleta de dados em arquivos de texto utilizando a linguagem Python.
+
+Este arquivo é para o primeiro exemplo de write files (Escrita).
+
+Cuidado, este texto vai ser substituído!
