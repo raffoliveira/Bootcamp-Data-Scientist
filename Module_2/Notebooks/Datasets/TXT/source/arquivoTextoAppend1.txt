@@ -1,5 +1,0 @@
-Exemplo: Coleta de dados em arquivos de texto utilizando a linguagem Python.
-
-Este arquivo é para o primeiro exemplo de append files (Alteração).
-
-Esta é a linha 5. As alterações serão realizadas a partir da próxima linha.

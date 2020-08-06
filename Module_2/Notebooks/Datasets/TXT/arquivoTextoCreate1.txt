@@ -1,3 +1,0 @@
-﻿Exemplo: Coleta de dados em arquivos de texto utilizando a linguagem Python.
-
-Este arquivo é para o primeiro exemplo de create files (Criação).
