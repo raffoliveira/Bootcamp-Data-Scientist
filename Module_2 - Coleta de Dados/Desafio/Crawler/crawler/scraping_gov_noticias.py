@@ -5,9 +5,19 @@ Created on Sun Aug  9 19:01:21 2020
 
 @author: rafael
 """
-#para rodar e salvar no formato json
+#para rodar e salvar no formato json:
 #scrapy runspider script_name.py -t json -o file_name.json
+
+#para rodar um arquivo normal use:
 #scrapy runspider scrpit_name.py
+
+#para criar um projeto spyder inicial use:
+# scrapy startprojec nome_projeto
+
+#para criar um spider scraping dentro do projeto use:
+# scrapy genspider scraping_nome_spider url_pagina
+
+
 
 
 import scrapy
