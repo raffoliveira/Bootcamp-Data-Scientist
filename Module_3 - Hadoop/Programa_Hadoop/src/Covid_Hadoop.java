@@ -9,8 +9,6 @@ import org.apache.hadoop.fs.*;
 import org.apache.hadoop.io.*;
 import org.apache.hadoop.mapred.*;
 import org.apache.hadoop.util.*;
-import org.w3c.dom.Text;
-
 
 public class Covid_Hadoop extends Configured implements Tool 
 {          
@@ -23,7 +21,7 @@ public class Covid_Hadoop extends Configured implements Tool
      
         try{ 	             	       	
             JobConf conf = new JobConf(getConf(), Covid_Hadoop.class);
-            conf.setJobName("Cálculo Covid19"); //instanciando o job de serviço do hadoop
+            conf.setJobName("Covid19_Calculus"); //instanciando o job de serviço do hadoop
 
             final FileSystem fs = FileSystem.get(conf); //objeto para manipular o hdfs
 
