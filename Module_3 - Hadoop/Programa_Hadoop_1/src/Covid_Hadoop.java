@@ -9,6 +9,8 @@ import org.apache.hadoop.fs.*;
 import org.apache.hadoop.io.*;
 import org.apache.hadoop.mapred.*;
 import org.apache.hadoop.util.*;
+//import org.w3c.dom.Text;
+
 
 public class Covid_Hadoop extends Configured implements Tool 
 {          
